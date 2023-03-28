@@ -3,3 +3,6 @@ Linea de texto 2
 Linea de texto 3
 Linea de texto 4
 Linea de texto 5
+
+
+#Cambio en la rama master que no producirá conflictos.
