@@ -3,3 +3,5 @@ Linea de texto B
 Linea de texto C
 Linea de texto D
 Linea de texto E
+
+#Cambio hecho en "rama1" que no producirá conflictos
