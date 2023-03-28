@@ -3,3 +3,9 @@ Linea de texto 2
 Linea de texto 3
 Linea de texto 4
 Linea de texto 5
+
+
+
+
+
+#Este cambio producirá conflictos con la tercera version que modifica el mismo archivo.
